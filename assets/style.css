@@ -1,0 +1,9 @@
+.wrapper{
+        width: 500px;
+        height: 500px;
+        border-radius: 30px;
+        /* background: linear-gradient(#fdf8b4 50%, ); */
+        background: linear-gradient(135deg, #fdf8b4 0%, #fff09f 100%);
+        border: 8px solid #eba02c;
+        box-shadow: rgba(163, 65, 2, 0.3) 0 0 10px inset;
+    }
